@@ -5,7 +5,7 @@
 
 
 # Visualization
-<img src="Dashboard Overview.png">
+<img src="Dashborad Overview.png">
 
 <img src="Main Pollutants by Sector.png">
 
